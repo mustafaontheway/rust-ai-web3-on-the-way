@@ -1,3 +1,3 @@
 * Web3 & Smart Contracts
 
-* AI with Rust
+* AI with Rust 
