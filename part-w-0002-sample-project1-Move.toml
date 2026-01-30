@@ -1,0 +1,9 @@
+[package]
+name = "learning"
+edition = "2024.alpha"
+
+[dependencies]
+
+
+[addresses]
+my_sample_addr = "0x0"
