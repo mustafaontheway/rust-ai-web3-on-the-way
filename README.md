@@ -1,6 +1,6 @@
 * Rust -> Tauri
 
-* Sway 
+* Move 
 
 * Web3 & Smart Contracts
 
